@@ -243,3 +243,9 @@ nav ul li a:hover::after {
 .social-icons a:hover {
     transform: translateY(-5px);
 }
+
+.resume:link,
+.resume:visited {
+    color: white;
+    text-decoration: underline;
+}
